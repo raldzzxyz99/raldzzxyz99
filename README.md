@@ -24,8 +24,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 [Email](mailto:raldzzjasteb@gmail.com)
+- 📧 Email: [Email](mailto:raldzzjasteb@gmail.com)
 - 📱 Telegram: [@RaldzzXyz](https://t.me/RaldzzXyz)
+- 🌐 Read More: [Website RaldzzXyz](https://raldzzxyz.vercel.app)
 
 ---
 
